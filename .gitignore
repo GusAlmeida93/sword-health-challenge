@@ -1,0 +1,4 @@
+.venv
+books
+files
+poetry.lock
